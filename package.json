@@ -1,0 +1,23 @@
+{
+  "name": "univ_bangla_compiler_project_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasibahmed123/Univ_Bangla_Compiler_Project_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasibahmed123/Univ_Bangla_Compiler_Project_Backend/issues"
+  },
+  "homepage": "https://github.com/hasibahmed123/Univ_Bangla_Compiler_Project_Backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>বাংলা প্রোগ্রামিং কম্পাইলার</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>বাংলা প্রোগ্রামিং কম্পাইলার</h1>
+        <p>আপনার বাংলা কোড লিখুন এবং কম্পাইল করুন!</p>
+        <textarea id="codeInput" placeholder="উদাহরণ: লেখ দুই যোগ তিন;"></textarea>
+        <button id="compileBtn">কম্পাইল করুন</button>
+        <div id="loading" class="loading hidden">
+            <div class="spinner"></div>
+            <p>কম্পাইল হচ্ছে...</p>
+        </div>
+        <div id="output" class="output hidden">
+            <h3>ফলাফল:</h3>
+            <pre id="outputText"></pre>
+        </div>
+        <div id="error" class="error hidden">
+            <h3>ত্রুটি:</h3>
+            <pre id="errorText"></pre>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
