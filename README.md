@@ -1,4 +1,4 @@
-This Project has only 5 mini features for kids so that they get interested in programming from the very young age, But in future I will implement to it more Insha'Allah
+This Project has only 5 mini features for kids so that they get interested in programming from the very young age, But in future I will implement it more Insha'Allah
 
 ✅Run Through Local Host: 
 Run Command: npm install 
@@ -13,19 +13,21 @@ bangla_compiler.exe
 
 পরিক্ষা ১: Arithmatic
 
- লেখ নয় গুণ সাত; 
-লেখ পাঁচ গুণ দুই বিয়োগ তিন;
+লেখ ৫ * ২ + ৮; 
 Parentheses
+লেখ ( ১ + ৪ ) * ৩;
+লেখ ( ১ + ৪ ) / ৩;
 লেখ ( এক যোগ দুই ) গুণ তিন;
 
-String Generate:
+String:
 লেখ "বাংলা কম্পাইলার কাজ করছে";
 
 পরীক্ষা 2: যদি-নাহলে
 ইনপুট: যদি (২ > ১) { লেখ "সঠিক"; } নাহলে { লেখ "ভুল"; }
+ইনপুট: যদি (৩ == ৩) { লেখ "মিলে গেছে"; } নাহলে { লেখ "মেলেনি"; }
 
 পরীক্ষা 3: যতক্ষণ লুপ
-ইনপুট:  ক = ০; যতক্ষণ (ক <৯ ) { লেখ ক; ক = ক + ১; }
+ইনপুট:  ক = ০; যতক্ষণ (ক < ৯ ) { লেখ ক; ক = ক + ১; }
 
 পরীক্ষা 4: প্রতিবার লুপ
 ইনপুট: প্রতিবার (খ = ০; খ < ৮; খ = খ + ২) { লেখ খ; }
@@ -35,24 +37,6 @@ String Generate:
 
 TEST 6: String print
 লেখ "বাংলা কম্পাইলার কাজ করছে";
-
-
-✅ টেস্ট সেট 2
-
-পরীক্ষা 1: গাণিতিক (ভাগ)
-ইনপুট: লেখ আট ভাগ দুই;
-
-পরীক্ষা 2: যদি-নাহলে
-ইনপুট: যদি (৩ == ৩) { লেখ "মিলে গেছে"; } নাহলে { লেখ "মেলেনি"; }
-
-পরীক্ষা 3: যতক্ষণ লুপ
-ইনপুট: খ = ৫; যতক্ষণ (খ < ৮) { লেখ খ; খ = খ + ১; }
-
-পরীক্ষা 4: প্রতিবার লুপ
-ইনপুট: প্রতিবার (খ = ১; খ < ৩; খ = খ + ১) { লেখ খ; }
-
-পরীক্ষা 5: স্বরবর্ণচেক
-ইনপুট: স্বরবর্ণচেক("ঊনি");
 
 
 
