@@ -1,3 +1,4 @@
+This is an interpreter basically where i implemented 3 phases of compiler but in near future all the 6 phases of compiler will be implemented as a full bangla compiler
 This Project has only 5 mini features for kids so that they get interested in programming from the very young age, But in future I will implement it more Insha'Allah
 
 ✅Run Through Local Host: 
